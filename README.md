@@ -3,10 +3,9 @@ inspired by @Vinsloev Academy.
 The provided Python code is a simple port scanning script that allows you to check if specific ports are open on a target host
 
 Here's how to use the code above:
-
 1. Make sure you have Python installed on your system.
    
-3. Open a text editor or Python development environment (such as PyCharm or Jupyter Notebook) and create a new file.
+2. Open a text editor or Python development environment (such as PyCharm or Jupyter Notebook) and create a new file.
    
 3.Copy the Python code above and paste it into the newly created file.
 
