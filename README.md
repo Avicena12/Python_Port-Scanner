@@ -5,11 +5,17 @@ The provided Python code is a simple port scanning script that allows you to che
 Here's how to use the code above:
 
 1. Make sure you have Python installed on your system.
-2. Open a text editor or Python development environment (such as PyCharm or Jupyter Notebook) and create a new file.
+   
+3. Open a text editor or Python development environment (such as PyCharm or Jupyter Notebook) and create a new file.
+   
 3.Copy the Python code above and paste it into the newly created file.
+
 4.Save the file with any name you want, for example "port_scanner.py".
+
 5.Open a terminal or command prompt, then navigate to the directory where you saved the file "port_scanner.py".
+
 6.Run the script by typing the following command in a terminal or command prompt:
+
 7. bash
    python port_scanner.py
 
